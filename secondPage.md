@@ -16,6 +16,6 @@ Markdown can easily display images from the directory:
 
 As well as pictures from the internet with the image URL:
 
-![Online Image](https://i.stack.imgur.com/fMbCw.png)
+![Online Image](https://static.boredpanda.com/blog/wp-content/uploads/2017/09/google-logo-perfect-circle-reactions-3-59ce5257499c7-png__700.jpg)
 
 ---
